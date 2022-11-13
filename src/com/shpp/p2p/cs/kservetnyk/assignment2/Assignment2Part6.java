@@ -21,8 +21,8 @@ public class Assignment2Part6 extends WindowProgram {
     public static final int CIRCLE_ABOVE_DISTANCE = 20;
 
     // The default width and height of the window.
-    public static final int APPLICATION_WIDTH = 600;
-    public static final int APPLICATION_HEIGHT = 600;
+    public static final int APPLICATION_WIDTH = 400;
+    public static final int APPLICATION_HEIGHT = 200;
 
     public void run(){
 
